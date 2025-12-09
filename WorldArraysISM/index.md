@@ -21,7 +21,7 @@ built-in helpers for:
 
 ## 📄 Documentation Sections
 
-- [Quickstart Tutorial](quickstart.md)
+- [Quickstart Tutorial](quickstart)
 - [API Reference](api.md)
 - [Examples & Use Cases](examples.md)
 
